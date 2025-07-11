@@ -26,6 +26,14 @@ This desktop application uses webcam video to detect signs of fatigue by analyzi
 - Tkinter
 - simpleaudio
 
+## 📋 Requirements
+
+To install all required packages, run:
+
+```bash
+pip install opencv-python dlib imutils scipy Pillow simpleaudio
+```
+
 ## 🖼️ Screenshots
 
 > <img width="1202" height="832" alt="imagee" src="https://github.com/user-attachments/assets/c5ba2dbe-c330-417f-aaa6-eb1a2a03c78a" />
