@@ -1,8 +1,8 @@
 # Fatigue Monitor 💤👁️
 
 <img 
-  width="768" 
-  height="512" 
+  width="384" 
+  height="256" 
   alt="Skitch" 
   src="https://github.com/user-attachments/assets/9defdaf8-e513-4abc-8d0a-167a5042af9d" 
   style="display: block; margin: 0 auto;" 
