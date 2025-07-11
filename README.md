@@ -32,5 +32,5 @@ This desktop application uses webcam video to detect signs of fatigue by analyzi
 - The file `shape_predictor_68_face_landmarks.dat` is included in this repository and must be present in the project directory.
 
 ## 🖼️ Screenshots
-<img width="1202" height="832" alt="imagee" src="https://git<img width="1536" height="1024" alt="Skitch" src="https://github.com/user-attachments/assets/394e1701-0327-4d3d-b348-96bc2f95f9f6" />
+<img width="1202" height="832" alt="imagee" src="https://github.com/user-attachments/assets/a347b581-d082-45c0-ae79-305b6e35e017" />
 
