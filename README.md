@@ -38,5 +38,8 @@ You can download it from [here](https://www.kaggle.com/datasets/sajikim/shape-pr
 After downloading, place the file in the project directory.
 
 ## 🖼️ Screenshots
-<img width="1202" height="832" alt="imagee" src="https://github.com/user-attachments/assets/a347b581-d082-45c0-ae79-305b6e35e017" />
+
+<img width="1202" height="832" alt="image1" src="https://github.com/user-attachments/assets/4bfe27f3-35ee-4637-a644-7914f513a479" />
+
+<img width="502" height="632" alt="image2" src="https://github.com/user-attachments/assets/8409b1ce-8b0c-48b0-a64b-e08f6d89f046" />
 
