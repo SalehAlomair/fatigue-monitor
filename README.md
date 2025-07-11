@@ -28,11 +28,7 @@ This desktop application uses webcam video to detect signs of fatigue by analyzi
 
 ## 📋 Requirements
 
-To install all required packages, run:
-
-```bash
-pip install opencv-python dlib imutils scipy Pillow simpleaudio
-```
+All project dependencies are listed in the [`requirements.txt`](requirements.txt) file.
 
 ## 🖼️ Screenshots
 
