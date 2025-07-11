@@ -28,7 +28,8 @@ This desktop application uses webcam video to detect signs of fatigue by analyzi
 
 ## 📋 Requirements
 
-All project dependencies are listed in the [`requirements.txt`](requirements.txt) file.
+- All project dependencies are listed in the [`requirements.txt`](requirements.txt) file.
+- Download the `shape_predictor_68_face_landmarks.dat` model file from [this official source](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2), then extract and place it in the project directory.
 
 ## 🖼️ Screenshots
 
