@@ -28,11 +28,5 @@ This desktop application uses webcam video to detect signs of fatigue by analyzi
 
 ## 🖼️ Screenshots
 
-> *Add screenshots of the app if available*
+> <img width="1202" height="832" alt="imagee" src="https://github.com/user-attachments/assets/c5ba2dbe-c330-417f-aaa6-eb1a2a03c78a" />
 
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/fatigue-monitor.git
-   cd fatigue-monitor
