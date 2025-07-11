@@ -1,6 +1,6 @@
 # Fatigue Monitor 💤👁️
 
-<img width="1202" height="500" alt="Skitch" src="https://github.com/user-attachments/assets/969b83da-d3d4-4233-907d-bd49effba7a4" style="display: block; margin: 0 auto;" />
+<img width="1080" height="524" alt="Skitch" src="https://github.com/user-attachments/assets/969b83da-d3d4-4233-907d-bd49effba7a4" style="display: block; margin: 0 auto;" />
 
 
 
