@@ -33,5 +33,6 @@ This desktop application uses webcam video to detect signs of fatigue by analyzi
 
 ## 🖼️ Screenshots
 
-> <img width="1202" height="832" alt="imagee" src="https://github.com/user-attachments/assets/c5ba2dbe-c330-417f-aaa6-eb1a2a03c78a" />
+> <img width="1202" height="832" alt="imagee" src="https://git<img width="1536" height="1024" alt="Skitch" src="https://github.com/user-attachments/assets/394e1701-0327-4d3d-b348-96bc2f95f9f6" />
+hub.com/user-attachments/assets/c5ba2dbe-c330-417f-aaa6-eb1a2a03c78a" />
 
