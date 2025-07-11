@@ -30,7 +30,11 @@ This desktop application uses webcam video to detect signs of fatigue by analyzi
 ## 📋 Requirements
 
 - All project dependencies are listed in the [`requirements.txt`](requirements.txt) file.
-- The file `shape_predictor_68_face_landmarks.dat` is included in this repository and must be present in the project directory.
+- The file `shape_predictor_68_face_landmarks.dat` is required for this project.  
+You can download it from here:  
+https://www.kaggle.com/datasets/sajikim/shape-predictor-68-face-landmarks?resource=download  
+After downloading, place the file in the project directory.
+
 
 ## 🖼️ Screenshots
 <img width="1202" height="832" alt="imagee" src="https://github.com/user-attachments/assets/a347b581-d082-45c0-ae79-305b6e35e017" />
