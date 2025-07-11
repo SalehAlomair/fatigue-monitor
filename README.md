@@ -1,5 +1,7 @@
 # Fatigue Monitor 💤👁️
-<img src="[assets/fatigue_monitor_sketch.png](https://github.com/user-attachments/assets/8e75667d-c463-4943-8187-67d0d453ea42)" alt="Fatigue Monitor Overview" width="768" height="512" />
+
+<img width="768" height="512" alt="Skitch" src="https://github.com/user-attachments/assets/9defdaf8-e513-4abc-8d0a-167a5042af9d" />
+
 
 A real-time eye-based fatigue and drowsiness detection system using OpenCV and dlib.
 
